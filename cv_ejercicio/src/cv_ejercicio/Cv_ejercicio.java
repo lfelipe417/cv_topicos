@@ -13,6 +13,7 @@ public class Cv_ejercicio {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.print("Version 0");
+        System.out.print("Version 1");
     }
     
 }
